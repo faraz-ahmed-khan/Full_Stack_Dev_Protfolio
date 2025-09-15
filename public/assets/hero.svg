@@ -1,0 +1,19 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="800" viewBox="0 0 1200 800">
+  <defs>
+    <linearGradient id="g" x1="0" x2="1">
+      <stop offset="0" stop-color="#0ea5e9"/>
+      <stop offset="1" stop-color="#8b5cf6"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="800" fill="#0f172a"/>
+  <rect x="80" y="80" width="1040" height="640" rx="20" fill="url(#g)" opacity="0.08"/>
+  <g fill="#cbd5e1" font-family="Arial, Helvetica, sans-serif">
+    <text x="120" y="220" font-size="48" font-weight="700">Faraz Ahmed Khan</text>
+    <text x="120" y="280" font-size="28">Full Stack Developer · UI/UX Designer · 3D Artist</text>
+  </g>
+  <g transform="translate(700,360)">
+    <rect x="0" y="0" width="360" height="220" rx="12" fill="#020617" stroke="#ffffff20"/>
+    <text x="20" y="36" fill="#9fb7ff" font-family="Arial" font-size="20">Hero Image</text>
+    <text x="20" y="76" fill="#cbd5e1" font-family="Arial" font-size="14">Replace with a real stock photo</text>
+  </g>
+</svg>
